@@ -1,6 +1,8 @@
 # David Radick
 
-**Name:** David 
+**Name:** David Radick
+
+**Title:** Front End Dev
 
 **From:** Chicago
 
