@@ -6,4 +6,6 @@
 
 **Food:** Pizza
 
+**Color:** Orange
+
 **Hobby:** Disc Golf
