@@ -1,6 +1,9 @@
 # David Radick
 
-**Name:** David
+**Name:** David 
+
 **From:** Chicago
+
 **Food:** Pizza
+
 **Hobby:** Disc Golf
